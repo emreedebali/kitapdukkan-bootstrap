@@ -1,0 +1,27 @@
+.jumbotron {
+    display: inline-flex;
+    border: solid red 1px;
+    width: 1365px;
+    height: 100px;
+    padding: 20px;
+}
+
+ .heads {
+    padding: 10px;
+ }
+
+ .yazarlar {
+    text-align: center;
+    list-style-type: none;
+ } 
+
+ .liste {
+list-style-type: none;
+ } 
+
+ .hakkimizdabutton{
+    text-align: center;
+    margin-left:48px;
+ }
+
+ 
